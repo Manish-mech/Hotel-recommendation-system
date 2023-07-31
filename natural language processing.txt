@@ -1,0 +1,12 @@
+ntlk -natural language tool kit
+
+wordnet corpus is a lexical databse, helps in lemmatization & synonym detection.
+
+Lexical database: repository of linguistic information, stores and organizes lexical items, such as words and their various forms, along with their meanings, grammatical properties, and other relevant linguistic features. 
+
+Lemmatization, is a technique where we take a word and break it down to it's lemma. e.g., walk is the lemma form of walking, walks, walked
+
+Numpy is a python library for numerical computing.
+pandas is a library for data manipulation & analysis.
+
+literal_eval function from AST safely evaluate a string containing a python literal (such as a list or dictionary). And convert it to it's true form.
